@@ -1,0 +1,9 @@
+[submodule "druntime"]
+	path = druntime
+	url = https://github.com/cpunion/druntime.git
+[submodule "phobos"]
+	path = phobos
+	url = https://github.com/cpunion/phobos.git
+[submodule "dmd"]
+	path = dmd
+	url = https://github.com/cpunion/dmd.git
